@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
     GameSpace \
     Recorder \
     NoCutoutOverlay \
+    TouchGestures \
     AvoidAppsInCutoutOverlay \
     SettingsIntelligenceGoogle \
     RepainterServicePriv
